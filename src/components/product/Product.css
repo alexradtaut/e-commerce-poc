@@ -40,6 +40,6 @@
   margin-bottom: 15px;
 }
 
-.product__button--hover {
+.product__button:hover {
   cursor: pointer;
 }

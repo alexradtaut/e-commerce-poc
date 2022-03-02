@@ -20,7 +20,7 @@
   color: #111;
 }
 
-.checkoutProduct__button--hover {
+.checkoutProduct__button:hover {
   cursor: pointer;
 }
 

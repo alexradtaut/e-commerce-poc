@@ -53,7 +53,7 @@
   border-color: #a88734 #9c7e31 #846a29;
 }
 
-.login__signInButton--hover {
+.login__signInButton:hover {
   cursor: pointer;
 }
 
@@ -66,6 +66,6 @@
   border-color: darkgrey;
 }
 
-.login__registerButton--hover {
+.login__registerButton:hover {
   cursor: pointer;
 }

@@ -29,7 +29,7 @@ function CheckoutProduct({ id, image, title, price, rating, hideButton }) {
         {!hideButton && (
           <button
             onClick={e => removeFromBasket(id)}
-            className="checkoutProduct__button checkoutProduct__button--hover"
+            className="checkoutProduct__button"
           >
             Remove from basket
           </button>
