@@ -58,16 +58,13 @@ function Login() {
           <button
             type="submit"
             onClick={signIn}
-            className="login__signInButton login__signInButton--hover"
+            className="login__signInButton"
           >
             Sign In
           </button>
         </form>
         <p>By signing-in you agree to the terms and conditions</p>
-        <button
-          onClick={register}
-          className="login__registerButton login__registerButton--hover"
-        >
+        <button onClick={register} className="login__registerButton">
           Create Your Amazon Account
         </button>
       </div>
