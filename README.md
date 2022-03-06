@@ -34,5 +34,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Firebase
 
-App is deployed on firebase
-Access [https://e-commerce-e0c72.web.app/](https://e-commerce-e0c72.web.app/) in order to check its functionalities.
+App is deployed on firebase. \
+Access [https://e-commerce-e0c72.web.app/](https://e-commerce-e0c72.web.app/) in order to check its functionalities. \
+Use the Stripe test card details in order to place an order (type "42" until the form is filled).
